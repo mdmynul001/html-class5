@@ -1,0 +1,50 @@
+h1{
+	color: blue;
+}
+
+.yellow{
+	background-color: yellow;
+}
+#big_font{
+	font-size: 42px;
+	color: initial;
+}
+.red{
+	border: 5px solid red;
+}
+h3{
+	color: blue;
+	font-size: 25px;
+}
+h4{
+	color: unset;
+	font-size: 22px;
+}
+
+.box{
+	width: 305px;
+	height: 100px;
+	background-color: red;
+}
+
+.box2{
+	width: 305px;
+	height: 100px;
+	background-color: #000000;
+}
+
+.box3{
+	width: 305px;
+	height: 100px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+/*It's css code commenting*/
+
+a{
+	font-size: 30px;
+}
+
+.p{
+	font-size: 20px;
+}
